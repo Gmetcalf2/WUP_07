@@ -82,7 +82,11 @@ chisqtestGC(table2)
 fisher.test(table2)
 ```
 
-The p value is 0.001 is too low, thus we reject the null hypothesis. The death rate in Korea is dependent on sex.
+The pearson chi squared test shows that the p value is 0.001 is too low, thus we reject the null hypothesis. The death rate in Korea is dependent on sex.
+
+The fisher exact test shows that 2.3 times the rate that women died.
 
 ## Conclusions
+
+We reject the Null hypothesis because the P value is to low, men died at 2.3 times the rate that women died. We conclude that the death rate of South Korea were dependent on sex.
 
